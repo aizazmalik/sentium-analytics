@@ -1,6 +1,6 @@
 Go to root directory and run 'npm install' to quick start this app
 
-_IMPORTANT:_ You need to specify DB IP, Username and Password in order for project to work. I have removed these for security purposes.
+_IMPORTANT:_ You need to specify DB IP, Username and Password in order for project to work (Ref File: src/app.module.ts). I have removed these for security purposes.
 
 Following things have been covered in this project,
 
